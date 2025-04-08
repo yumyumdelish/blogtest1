@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'TEST'
+theme = 'notrack'
+[params]
+author = 'dumdumdelish'
+siteHeading = 'TEST'
+mainSections = ['blog','contact']
+
+[params.social]
+mastodon = '@dumdumdelish@sunny.garden'
+email = 'eloiseramon@gmail.com'
+instagram = '@dumdumdelish'
