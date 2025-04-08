@@ -11,3 +11,6 @@ mainSections = ['blog','contact']
 mastodon = '@dumdumdelish@sunny.garden'
 email = 'eloiseramon@gmail.com'
 instagram = '@dumdumdelish'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
